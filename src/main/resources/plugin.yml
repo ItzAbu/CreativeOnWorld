@@ -1,0 +1,6 @@
+name: CreativeOnWorld
+version: '${project.version}'
+main: org.itzabu.creativeonworld.CreativeOnWorld
+api-version: '1.20'
+authors: [itz_AbU]
+description: Tramite questo plugin quando vai in un certo mondo ti attiva la creative.
